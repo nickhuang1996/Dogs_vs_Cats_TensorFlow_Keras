@@ -1,5 +1,5 @@
 # Dogs_vs_Cats_TensorFlow_Keras
-Using Keras(TensorFlow) for Dogs vs, Cats match
+`Using Keras(TensorFlow) for Dogs vs, Cats match.`
 
 # Introduction
 - This repository is for kaggle `Dogs vs. Cats` match, but you can utilize this code to learn how to use `keras`. 
